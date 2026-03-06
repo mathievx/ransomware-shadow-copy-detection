@@ -1,7 +1,4 @@
----
-title: Ransomware Precursor Detection via Shadow Copy Monitoring
-date: December 13, 2025
----
+## Ransomware Precursor Detection via Shadow Copy Monitoring
 
 ## Context & Objective
 
